@@ -1,2 +1,2 @@
-# Think-Functional-with-Haskell
+# Think-Functionally-with-Haskell
 By Richard Bird
